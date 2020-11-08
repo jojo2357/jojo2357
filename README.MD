@@ -1,4 +1,7 @@
 <details>
     <summary>Github Stats</summary>
-    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true&theme=dark"/>
+    <img align="left" alt="jojo2357's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=jojo2357&show_icons=true&hide_border=true&theme=dark"/>
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojo2357&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![jojo2357's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jojo2357)](https://github.com/anuraghazra/github-readme-stats)
