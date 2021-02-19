@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=jojo2357&color=brightgreen)](https://github.com/jojo2357)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/jojo2357)]()
 
-<img align="left" alt="jojo2357's most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo2357&count_private=true&layout=compact&hide_border=true&theme=gruvbox"/>
+<img align="left" alt="jojo2357's most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo2357&count_private=true&layout=compact&hide_border=true&theme=gruvbox&langs_count=10"/>
 
 <a href="https://top.gg/bot/699366687455051808">
     <img align="left" src="https://top.gg/api/widget/699366687455051808.svg" alt="jojo's baller bot" />
