@@ -17,8 +17,10 @@ Favorite Languages:
 
 ## My sponsors:
 ### 5 largest sponsors:
+[Smaltin](https://github.com/smaltin)($5)
 *crickets*
 ### 5 most recent sponsors:
+[Smaltin](https://github.com/smaltin)($5)
 *crickets*
 ### A big thank you to all my sponsors!
 To sponsor me, go to [my sponsor page](https://github.com/sponsors/jojo2357). Any amount means a lot to me, so thanks.
