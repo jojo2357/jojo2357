@@ -17,11 +17,11 @@ Favorite Languages:
 
 ## My sponsors:
 ### 5 largest sponsors:
-- Nich ($5)
+- nich ($5)
 - [Smaltin](https://github.com/smaltin) ($5)
 - *crickets*
 ### 5 most recent sponsors:
-- Nich ($5)
+- nich ($5)
 - [Smaltin](https://github.com/smaltin) ($5)
 - *crickets*
 ### A big thank you to all my sponsors!
