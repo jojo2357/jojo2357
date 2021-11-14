@@ -1,6 +1,5 @@
 [![Years Badge](https://badges.pufler.dev/years/jojo2357)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/jojo2357)](https://github.com/jojo2357?tab=repositories)
-[![](https://komarev.com/ghpvc/?username=jojo2357&color=brightgreen)](https://github.com/jojo2357)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/jojo2357)]()
 
 Hi, I'm jojo2357 and I code open source for fun and make some cool things. Check out the pins below!
