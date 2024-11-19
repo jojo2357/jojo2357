@@ -1,7 +1,7 @@
 Hi, I'm jojo2357 and I code open source for fun and make some cool things. Check out the pins below!
 
 Favorite Languages:
-<br><img align="center" alt="jojo2357's most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo2357&count_private=true&layout=compact&hide_border=true&theme=gruvbox&langs_count=10&hide=python,cmake"/><br>
+<br><img align="center" alt="jojo2357's most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo2357&count_private=false&layout=compact&hide_border=true&theme=gruvbox&langs_count=10&hide=python,cmake"/><br>
 
 <br><img align="center" alt="jojo2357's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=jojo2357&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=gruvbox"/>
 <br>
